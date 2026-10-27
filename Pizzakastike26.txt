@@ -1,3 +1,8 @@
 Valkosipuli
 tomaatti
+<<<<<<< HEAD
 Tulinenkastike
+=======
+Tulinen
+kastike
+>>>>>>> 4e873bcd03747fd1ab1887d37752d9e3faebc8f8
