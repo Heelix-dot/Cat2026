@@ -1,2 +1,4 @@
 Valkosipuli
 tomaatti
+Tulinen
+kastike
